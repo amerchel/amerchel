@@ -14,7 +14,7 @@ Hi 👋 My name is Adrianna
 *   🌍  I'm based in Poznań, PL
 *   ✉️  You can contact me at [ada.merchel98@gmail.com](mailto:ada.merchel98@gmail.com)
 *   🧠  I'm learning basics of programming
-*   ⚡  I'm in love with MARVEL
+*   ⚡  I'm a huge fan of MARVEL
 
  
 <p align="left">
