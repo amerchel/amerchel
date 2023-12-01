@@ -9,6 +9,8 @@ Hi 👋 My name is Adrianna
 
 🔍 My repositories on GitHub are where I post my progress made in my studies and from additional courses. In the future, projects of my own experiments will also appear here
 
+
+
 *   🌍  I'm based in Poznań, PL
 *   ✉️  You can contact me at [ada.merchel98@gmail.com](mailto:ada.merchel98@gmail.com)
 *   🧠  I'm learning basics of programming
